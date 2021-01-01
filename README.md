@@ -1,2 +1,5 @@
 # JavaDiceThrower
-A simple dice thrower built in Java
+
+This is a simple dice thrower I build in java.
+
+
